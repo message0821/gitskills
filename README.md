@@ -1,3 +1,2 @@
 gitskills
 =========
-<area></area>
